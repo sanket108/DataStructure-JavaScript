@@ -1,2 +1,2 @@
-# DataStructure-JavaScript
-This repository will give a knowledge of implementation of data structure and algorithm using Java-Script language 
+# Data-Structure-And-Algorithm-Javascript
+This repo give you basic understanding of algorithm and data structure.
