@@ -19,7 +19,7 @@ function same(arr1, arr2) {
         if (currentIndex === -1) {
             return false;
         }
-        arr2.splice(currentIndex, 1);
+        arr2.splice(currentIndex, 1); // delete that element from arr2 array because we need to check frequency of each element
     }
     return true;
 }
